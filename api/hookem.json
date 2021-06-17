@@ -1,0 +1,27 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Peter Pan",
+            "email": "peter@pan.com",
+            "password": "peter"
+        },
+        {
+            "id": 2,
+            "name": "Austin Plank",
+            "email": "austin@plank.com",
+            "password": "austin"
+        }
+    ], 
+    "fish": [
+        {
+            "id": 1,
+            "userId": 1,
+            "type": "bass",
+            "length": 4.75,
+            "weight": 9,
+            "location": "Harrison Bay",
+            "date": "06/10/2021"
+        }
+    ]
+}
