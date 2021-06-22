@@ -1,27 +1,40 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "name": "Peter Pan",
-            "email": "peter@pan.com",
-            "password": "peter"
-        },
-        {
-            "id": 2,
-            "name": "Austin Plank",
-            "email": "austin@plank.com",
-            "password": "austin"
-        }
-    ], 
-    "fish": [
-        {
-            "id": 1,
-            "userId": 1,
-            "type": "bass",
-            "length": 4.75,
-            "weight": 9,
-            "location": "Harrison Bay",
-            "date": "06/10/2021"
-        }
-    ]
+  "user": [
+    {
+      "id": 1,
+      "name": "Peter Pan",
+      "email": "peter@pan.com"
+    },
+    {
+      "id": 2,
+      "name": "Austin Plank",
+      "email": "austin@plank.com"
+    },
+    {
+      "email": "jeff@jefferson.com",
+      "name": "Jeff Jefferson",
+      "id": 3
+    },
+    {
+      "email": "steve@steveson.com",
+      "name": "Steve Steveson",
+      "id": 4
+    },
+    {
+      "email": "lincoln@underwood.com",
+      "name": "Lincoln Underwood",
+      "id": 5
+    }
+  ],
+  "fish": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "bass",
+      "length": 4.75,
+      "weight": 9,
+      "location": "Harrison Bay",
+      "date": "06/10/2021"
+    }
+  ]
 }
